@@ -12,4 +12,22 @@
     
    ### DB
    * MySQL 5.7을 사용하여 DATABASE 계층을 구성하였습니다.
+
+ ## 시스템 구성과 개발환경
+ ![reroadSystem](https://user-images.githubusercontent.com/92851213/153538650-bf6de9fb-9d50-4126-a540-a0e92b6caffb.png)
+ 
+# 담당기능
+
+ * 전국의 고속버스 터미널 및 기차역 목록과 고속버스와 열차의 스케줄 정보를 제공하는 REST API 개발
+
+ ![image](https://user-images.githubusercontent.com/92851213/153548068-821452a2-ac2a-4972-a506-4935a3ea769a.png)
+
+ * 스케줄 조회를 위해 필요한 정보들을 선택하는 기능
+ ![select](https://user-images.githubusercontent.com/92851213/153553467-c4fec3be-549f-44dc-a5b5-0bc57b93e0ab.gif)
+
+ 
+ 
+
    
+
+
