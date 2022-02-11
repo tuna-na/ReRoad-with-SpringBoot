@@ -23,7 +23,8 @@
  ![image](https://user-images.githubusercontent.com/92851213/153548068-821452a2-ac2a-4972-a506-4935a3ea769a.png)
 
  * 스케줄 조회를 위해 필요한 정보들을 선택하는 기능
- ![select](https://user-images.githubusercontent.com/92851213/153553467-c4fec3be-549f-44dc-a5b5-0bc57b93e0ab.gif)
+ 
+ ![select](https://user-images.githubusercontent.com/92851213/153553799-b26469c1-8fcb-42de-baaf-e9da562ecc50.gif)
 
  
  
