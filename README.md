@@ -28,7 +28,8 @@
  
  * 사용자가 선택한 정보로 스케줄을 조회
  
- ![sc](https://user-images.githubusercontent.com/92851213/153555177-ec59e3fa-0c3d-44c0-820c-60559f50e803.png)
+ ![sc](https://user-images.githubusercontent.com/92851213/153556570-78c6c6da-0dfc-4320-b6e7-5b65d84bab53.png)
+
 
  
 
