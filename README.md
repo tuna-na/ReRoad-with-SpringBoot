@@ -25,6 +25,12 @@
  * 스케줄 조회를 위해 필요한 정보들을 선택하는 기능
  
  ![select](https://user-images.githubusercontent.com/92851213/153553799-b26469c1-8fcb-42de-baaf-e9da562ecc50.gif)
+ 
+ * 사용자가 선택한 정보로 스케줄을 조회
+ 
+ ![sc](https://user-images.githubusercontent.com/92851213/153555177-ec59e3fa-0c3d-44c0-820c-60559f50e803.png)
+
+ 
 
  
  
